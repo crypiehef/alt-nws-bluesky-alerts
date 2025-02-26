@@ -5,3 +5,6 @@ Simply just add your free tier Visual Crossing API key, and your Bluesky account
 The script checks for new alerts every 5 minutes, which is configurable. Be careful with this as the free tier allows you 1000 requests a day.
 
 Python 3 required. 
+
+**Update 0.2 now includes both Alerts and Events. Fires, Tornados and Earthquakes appear under Events while all other weather alerts appear 
+under alerts.
