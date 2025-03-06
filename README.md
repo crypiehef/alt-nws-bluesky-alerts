@@ -9,5 +9,5 @@ Python 3 required.
 **Update 0.2 now includes both Alerts and Events. Fires, Tornados and Earthquakes appear under Events while all other weather alerts appear 
 under alerts.
 
-**Upage 1.0 completely rewritten. Note that you have to enter in the script, the cities you want to monitor for weather alerts.
+**Update 1.0 completely rewritten. Note that you have to enter in the script, the cities you want to monitor for weather alerts.
 I started you off with a small list.
